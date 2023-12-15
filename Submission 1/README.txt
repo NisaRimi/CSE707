@@ -8,7 +8,7 @@ Paper title:
 Multi-Clustering Access Control Based on Access Control Lists under Edge Computing
 
 Link to the paper:
-file:///C:/Users/ASUS/Desktop/Task%201/Multi-Clustering_Access_Control_Based_on_Access_Control_Lists_under_Edge_Computing.pdf
+ieeexplore.ieee.org/abstract/document/9361280
 
 Group Number:
 30
