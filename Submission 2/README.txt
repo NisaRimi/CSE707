@@ -8,7 +8,7 @@ Paper title:
 Design of Long-Term Evolution Based Mobile Edge Computing Systems to Improve 5G Systems 
 
 Link to the paper:
-Design of Long-Term Evolution Based Mobile Edge Computing Systems to Improve 5G Systems | IEEE Conference Publication | IEEE Xplore
+https://ieeexplore.ieee.org/document/10212420/metrics
 
 Group Number:
 30
